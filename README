@@ -1,0 +1,64 @@
+#################################################################################################################################################
+								IRIO Library
+#################################################################################################################################################
+=================================================================================================================================================
+IRIO Library description:
+=================================================================================================================================================
+IRIO Library allows the users to develop standalone C/C++ applications or EPICS IOCs (using IRIO EPICS Device Support) to acquire data using 
+NI RIO Hardware (cRIO and FlexRIO).
+The IRIO Library has an API that allows the applications to detect the hardware (cRIO and FlexRIO) and the data acquisition profile selected. 
+This profiles allows direct I/O Data Acquisition, DMA Data Acquisition, and DMA Image Acquisition, using diferent platforms cRIO and FlexRIO. 
+It allows the access to the resources implemented in the FPGA design.
+
+In the following website, users can find all info needed about IRIO Technology.
+
+Website: http://www.i2a2.upm.es/idi/instrumentacion-aplicada/sistemas-de-adquisicion-de-datos-avanzados-2/irio-technology/
+
+
+
+=================================================================================================================================================
+How to install IRIO Software Tools:
+=================================================================================================================================================
+In the following website, users can find all info needed about how to install next software packages in a ScientificLinux distribution.
+-NI-RIO Linux Driver 
+-EPICS Base
+-SynApps (Busy, Sscan, Autosave and Calc)
+-IRIO Library
+-IRIO EPICS Device Support
+
+WebSite: http://www.i2a2.upm.es/idi/instrumentacion-aplicada/sistemas-de-adquisicion-de-datos-avanzados-2/irio-software-tools-installation/
+
+
+
+=================================================================================================================================================
+IRIO Library GitHub Repository:
+=================================================================================================================================================
+https://github.com/irio-i2a2/IRIO_Library.git
+
+
+
+=================================================================================================================================================
+IRIO Library Developers and Copyright Info:
+=================================================================================================================================================
+Project             : IRIO Library
+
+Description         : The IRIO Library allows the users to develop standalone C/C++ applications or EPICS IOCs (using IRIO EPICS Device Support) 
+		      to acquire data using NI RIO Hardware (cRIO and FlexRIO).
+
+Authors             : Mariano Ruiz, Diego Sanz, Sergio Esquembri, Enrique Bernal, and Alvaro Bustos
+
+Authors Affiliation : Universidad Politécnica de Madrid (UPM)
+
+Copyright (C)       : 2010-2015 Universidad Politécnica de Madrid (UPM)
+
+Support             : irio@i2a2.upm.es
+
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the 
+Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY 
+or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+ 
+You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc.,
+51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+

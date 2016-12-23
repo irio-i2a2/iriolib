@@ -1,0 +1,10 @@
+tiffs256/num0.tif
+tiffs256/num1.tif
+tiffs256/num2.tif
+tiffs256/num3.tif
+tiffs256/num4.tif
+tiffs256/num5.tif
+tiffs256/num6.tif
+tiffs256/num7.tif
+tiffs256/num8.tif
+tiffs256/num9.tif
